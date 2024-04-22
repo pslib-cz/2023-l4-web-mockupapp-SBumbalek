@@ -1,8 +1,16 @@
-# Tower Defense Havoc
+# Tower Defense Arrow
 
 ## Popis hry
 
-Tower Defense Havoc je akční strategická hra, ve které hráč brání svou základnu před neustále se zvyšujícími vlnami nepřátel. Hra se zaměřuje na plánování, strategii a rychlé rozhodování.
+Tower Defense Arrow je akční strategická hra, ve které hráč brání svou základnu před neustále se zvyšujícími vlnami nepřátel. Hra se zaměřuje na plánování, strategii a rozhodování.
+největší inspirace pro tuto hru jsou: Bloons TD a Kingdom Rush.
+
+**Pro koho tato hra je:**
+Tower Defense Arrow je vhodná pro hráče, kteří si užívají strategické výzvy a plánování taktiky. Díky jednoduché, avšak zábavné hratelnosti je ideální pro casual hráče, kteří si chtějí užít krátké herní sezení.
+
+**Unity:**  
+Tower Defense Arrow bude vyvíjena v Unity kvůli jeho vhodným nástrojům a prostředí pro tvorbu her.
+
 
 ## Herní mechaniky
 
@@ -42,4 +50,3 @@ Tower Defense Havoc je akční strategická hra, ve které hráč brání svou z
    -  Hráč má také možnost spustit tzv. autoplay, který pustí další vlnu po zneškodnění všech nepřátel současné vlny
    - Po zneškodnění všech nepřátel vlny hráči dostane možnost pokračovat do další vlny. Existuje také možnost zapnutí režimu autoplay.
   
-6. **Systém vylepšování:**
