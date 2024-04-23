@@ -52,8 +52,17 @@ Tower Defense Arrow bude vyvíjena v Unity kvůli jeho vhodným nástrojům a pr
    - Po zneškodnění všech nepřátel vlny hráči dostane možnost pokračovat do další vlny. Existuje také možnost zapnutí režimu autoplay.
   
    
-##Technické parametry:
+## Technické parametry:
    - Kamera ve hře je ve sklomnu 30°
    - všechny animace jsou ve 30FPS
+
+
+## Ukázky:
+
+Figma návrh s ukázkami (https://www.figma.com/file/BMLvkaKrK67d8e07FKAeyC/MockUP_TowerDeffenceArrow?type=design&node-id=0%3A1&mode=design&t=GEhP9HYSE8gspDdB-1)
+
+![Animace1](https://github.com/pslib-cz/2023-l4-web-mockupapp-SBumbalek/blob/main/Uk%C3%A1zky/Knight_Side.gif)
+![Animace2](https://github.com/pslib-cz/2023-l4-web-mockupapp-SBumbalek/blob/main/Uk%C3%A1zky/Mutant_Side.gif)
+![Animace3](https://github.com/pslib-cz/2023-l4-web-mockupapp-SBumbalek/blob/main/Uk%C3%A1zky/Rogue_Side.gif)
      
   
