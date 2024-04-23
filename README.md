@@ -28,10 +28,6 @@ Tower Defense Arrow bude vyvíjena v Unity kvůli jeho vhodným nástrojům a pr
    - Po dalších deseti vylepšení se věž změní na level 3, která bude mít +2 ke každému vylepšení.
    - Vzlepšování věží:
    - Když najede hráč myškou na věž, zobrazí se mu nabídka pro vylepšení síly (oranžová koule) a nebo dohledu (modrá koule).
-**Ukázka věží (level 1 až level 3):**
-![ukázka věže level1](https://github.com/pslib-cz/2023-l4-web-mockupapp-SBumbalek/blob/main/Grafika/V%C4%9B%C5%BEe/Tower_Level_1.png)
-![ukázka věže level2](https://github.com/pslib-cz/2023-l4-web-mockupapp-SBumbalek/blob/main/Grafika/V%C4%9B%C5%BEe/Tower_Level_2.png)
-![ukázka věže level3](https://github.com/pslib-cz/2023-l4-web-mockupapp-SBumbalek/blob/main/Grafika/V%C4%9B%C5%BEe/Tower_Level_3.png)
 
 
 3. **Systém nepřátel:**
@@ -54,4 +50,10 @@ Tower Defense Arrow bude vyvíjena v Unity kvůli jeho vhodným nástrojům a pr
    - Hráč má také možnost spustit vlnu ještě před tím, než první splnil a to když v první vlně zneškodní polovinu nepřátel, poté hráč může spustit další vlnu klávesou "space"
    -  Hráč má také možnost spustit tzv. autoplay, který pustí další vlnu po zneškodnění všech nepřátel současné vlny
    - Po zneškodnění všech nepřátel vlny hráči dostane možnost pokračovat do další vlny. Existuje také možnost zapnutí režimu autoplay.
+  
+   
+##Technické parametry:
+   - Kamera ve hře je ve sklomnu 30°
+   - všechny animace jsou ve 30FPS
+     
   
